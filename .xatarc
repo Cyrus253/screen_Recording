@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Cyrus-s-workspace-pm15qk.ap-southeast-2.xata.sh/db/jsm_doomCast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
